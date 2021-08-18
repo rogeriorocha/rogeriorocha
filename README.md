@@ -99,5 +99,10 @@ Here are some ideas to get you started:
  
  
  
- 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rogeriorocha.rogeriorocha)
+ <!--
+![](https://komarev.com/ghpvc/?username=rogeriorocha&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/rogeriorocha/rogeriorocha?color=green&logo=github&style=flat-square)
+
+ -->
+![Visits](https://visitor-badge.laobi.icu/badge?page_id=rogeriorocha.rogeriorocha) 
+
