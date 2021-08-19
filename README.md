@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Terraform](https://img.shields.io/badge/-Terraform-white?style=flat-square&logo=Terraform&logoColor=blue)
+![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-white?style=flat-square&logo=azure-pipelines&logoColor=blue)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow)
 ![Delphi](https://img.shields.io/badge/-Rad%20Studio%20(Delphi)-red?style=flat-square&logo=delphi)
@@ -31,6 +32,8 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
