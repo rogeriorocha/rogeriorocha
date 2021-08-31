@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⚡ Technologies
+<!--
+![Tekton](https://img.shields.io/badge/-Tekton-red?style=flat-square&logo=tekton&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-red?style=flat-square&logo=argo&logoColor=white)
+-->
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker&logoColor=blue)
