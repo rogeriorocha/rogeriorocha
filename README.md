@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Kubernetes (K8S), Azure Cloud, Azure Pepilines.
+- 🔭 I’m currently working with Kubernetes (K8S), Azure Cloud, Azure Pipeline, Tekton and ArgoCD.
 
 <!--
 **rogeriorocha/rogeriorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
