@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working with:
-  - StackSpot EDP and StackSpot IA
+  - [StackSpot EDP](https://stackspot.com/) and [StackSpot IA](https://stackspot.com/) by [ZUP INNOVATION](https://zup.com.br/)  
   - AWS & Azure Cloud Platforms
   - Kubernetes and containerized workloads (other tools)
   - Infrastructure as Code (Terraform)
