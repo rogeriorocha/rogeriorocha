@@ -22,6 +22,7 @@
 
 ### 📜 Certifications
 
+- 🏅 AWS Certified Solutions Architect – Professional
 - 🏅 AWS Certified Solutions Architect – Associate
 - 🏅 AWS Certified Developer – Associate
 - 🏅 AWS Certified Cloud Practitioner
